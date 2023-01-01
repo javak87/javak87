@@ -9,7 +9,7 @@ I’m a person who made a tough decision to take care of future generations and 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg](https://www.google.com/search?q=numpy&rlz=1C1BNSD_enIR969IR969&sxsrf=ALiCzsY5Nech2_v91Ph-BKMz1YJo-b_gFA:1672607477479&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj8u6y0pKf8AhV5wAIHHawsDVIQ_AUoAXoECAEQAw&biw=1536&bih=722&dpr=1.25#imgrc=ghAGPef9vrDcYM)" />
+<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://www.google.com/search?q=numpy&rlz=1C1BNSD_enIR969IR969&sxsrf=ALiCzsY5Nech2_v91Ph-BKMz1YJo-b_gFA:1672607477479&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj8u6y0pKf8AhV5wAIHHawsDVIQ_AUoAXoECAEQAw&biw=1536&bih=722&dpr=1.25#imgrc=ghAGPef9vrDcYM" />
 
 <br />
 
