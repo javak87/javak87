@@ -1,6 +1,6 @@
 ## About Me  
 
-I’m a person who made a tough decision to take care of future generations and make a peace with mother nature by changing his work career from a petroleum-oriented firm to starting Computational Sciences master's student at Freie Universität Berlin.
+I’m a person who made a tough decision to take care of future generations and make a peace with mother nature by changing his work career from a petroleum-oriented firm to become Computational Sciences master's student at Freie Universität Berlin.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/javad-kasravi-68763566/)
 [![CV](https://img.shields.io/badge/-CV-blue)](https://drive.google.com/file/d/1wJ6ENApnh1kVyRzarkVbLded4ZfpDaPV/view?usp=sharing)
