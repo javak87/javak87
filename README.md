@@ -5,6 +5,11 @@ I’m a person who made a tough decision to take care of future generations and 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/javad-kasravi-68763566/)
 [![CV](https://img.shields.io/badge/-CV-blue)](https://drive.google.com/file/d/1wJ6ENApnh1kVyRzarkVbLded4ZfpDaPV/view?usp=sharing)
 
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 ## Github Repositories
 
 | Repos         | Technology Stack  | About  |
